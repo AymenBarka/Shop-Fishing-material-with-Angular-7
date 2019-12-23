@@ -1,0 +1,19 @@
+footer .logo {
+    width: 200px;
+}
+
+footer ul li a {
+    color: #6191bc!important;
+    text-decoration: none !important;
+}
+
+footer ul li a:hover {
+    color: #AF8751!important
+}
+
+footer hr {
+    border-top: 1px solid #6191bc
+}
+.bg-theme {
+    background: #09255D!important
+}
